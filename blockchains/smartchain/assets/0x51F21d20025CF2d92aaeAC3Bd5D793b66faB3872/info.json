@@ -1,0 +1,11 @@
+{
+  "name": "JUJU",
+  "symbol": "JUJU",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "JUJU is a fun and community-powered token deployed on Binance Smart Chain.",
+  "website": "https://jujuverse.com",
+  "explorer": "https://bscscan.com/token/0x51F21d20025CF2d92aaeAC3Bd5D793b66faB3872",
+  "status": "active",
+  "id": "0x51F21d20025CF2d92aaeAC3Bd5D793b66faB3872"
+}
